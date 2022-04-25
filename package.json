@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jest": "^28.0.0",
+    "puppeteer": "^13.6.0"
+  },
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
